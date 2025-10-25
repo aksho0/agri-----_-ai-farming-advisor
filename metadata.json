@@ -1,0 +1,8 @@
+{
+  "name": "Agriनेत्र: AI Farming Advisor",
+  "description": "An AI-powered system for farmers to get agricultural advice through text, voice, or images. It provides simple, localized, and actionable solutions for crop diseases, pest control, and farming best practices.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
